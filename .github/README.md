@@ -14,10 +14,3 @@ Visit the [MyBB Community Forums](https://community.mybb.com) and join the [MyBB
 
 #### Security
 View [SECURITY.md](https://github.com/mybb/mybb/blob/feature/.github/SECURITY.md) for information on secure usage, incident recovery, and vulnerability reporting. To learn more about security research at MyBB, go to [**mybb.com/security**](https://mybb.com/get-involved/security/).
-
-## MyBB Credits (Forked from)
-### [Contributors](https://github.com/mybb/mybb/graphs/contributors)
-
-<a href="https://github.com/mybb/mybb/graphs/contributors"><img src="https://opencollective.com/mybb/contributors.svg?width=890&button=false" /></a>
-
-Some icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/).
